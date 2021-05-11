@@ -1,0 +1,10 @@
+{
+	"data": {
+		"sc": false,
+		"resurl" : "6ZO+5o6lOiBodHRwczovL3Bhbi5iYWlkdS5jb20vcy8xZ1U0clJibmpBdHNabTlpR1A5el94ZyDmj5Dlj5bnoIE6IHRpNGo=",
+		"source": "字体",
+		"url" : "https://tushou.ibear.cc/tsres",
+		"version":"1.3.4",
+		"content": "- 新增文字描边、镂空、渐变\n- 合并基础设置\n- 微调页面UI修改\n- 修复字体安装错误"
+	}
+}
