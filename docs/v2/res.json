@@ -2,27 +2,27 @@
     "data":[
         {
             "name":"素材-基础",
-            "extension":"tsimg",
+            "extension":"tsres",
             "size":"39.5M",
             "url":"https"
         },{
             "name":"素材-节庆",
-            "extension":"tsimg",
+            "extension":"tsres",
             "size":"126.8M",
             "url":"https"
         },{
             "name":"素材-排版",
-            "extension":"tsimg",
+            "extension":"tsres",
             "size":"34.5M",
             "url":"https"
         },{
             "name":"素材-主题",
-            "extension":"tsimg",
+            "extension":"tsres",
             "size":"65.4M",
             "url":"https"
         },{
             "name":"素材-风格",
-            "extension":"tsimg",
+            "extension":"tsres",
             "size":"20.8M",
             "url":"7c78740f4f3dd57d26db9c6c2302443e57737a050e175086005f8d6bb65f2b118eab61c109a3f9e080b80d8f92fbace2b18cb664de753513150e95ac39cbb94ca099307019340cf68f1432e62e0793cb"
         }
