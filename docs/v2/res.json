@@ -2,22 +2,27 @@
     "data":[
         {
             "name":"素材-基础",
+            "extension":"tsimg",
             "size":"39.5M",
             "url":"https"
         },{
             "name":"素材-节庆",
+            "extension":"tsimg",
             "size":"126.8M",
             "url":"https"
         },{
             "name":"素材-排版",
+            "extension":"tsimg",
             "size":"34.5M",
             "url":"https"
         },{
             "name":"素材-主题",
+            "extension":"tsimg",
             "size":"65.4M",
             "url":"https"
         },{
             "name":"素材-风格",
+            "extension":"tsimg",
             "size":"20.8M",
             "url":"https"
         }
