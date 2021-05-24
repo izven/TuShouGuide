@@ -1,29 +1,24 @@
 {
     "data":[
         {
-            "name":"基础",
-            "extension":"tsres",
-            "size":"20M",
+            "name":"素材-基础",
+            "size":"39.5M",
             "url":"https"
         },{
-            "name":"节庆",
-            "extension":"tsres",
-            "size":"20M",
+            "name":"素材-节庆",
+            "size":"126.8M",
             "url":"https"
         },{
-            "name":"排版",
-            "extension":"tsres",
-            "size":"20M",
+            "name":"素材-排版",
+            "size":"34.5M",
             "url":"https"
         },{
-            "name":"主题",
-            "extension":"tsres",
-            "size":"20M",
+            "name":"素材-主题",
+            "size":"65.4M",
             "url":"https"
         },{
-            "name":"风格",
-            "extension":"tsres",
-            "size":"20M",
+            "name":"素材-风格",
+            "size":"20.8M",
             "url":"https"
         }
     ]
