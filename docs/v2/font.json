@@ -1,6 +1,11 @@
 {
     "data":[
         {
+            "name":"合集-常用拼音体-拼音",
+            "extension":"zip",
+            "size":"19.2M",
+            "url":"7c78740f4f3dd57d26db9c6c2302443e57737a050e175086005f8d6bb65f2b11d2804a522e231c7a848f06f2cad108bcc3964899f7b1c52a39eef733277caa6b80b4ac6775c1254e7b05eb6be65706a2"
+        },{
             "name":"合集-卡通字体-卡通",
             "extension":"zip",
             "size":"23M",
@@ -20,6 +25,16 @@
             "extension":"zip",
             "size":"38.5M",
             "url":"7c78740f4f3dd57d26db9c6c2302443e57737a050e175086005f8d6bb65f2b11b7a9becd523dfed916d34ccbb8b381278d8b0560a10e79d5ed19e4d4bca1cf0058026654611daef77a83fe3709b1b3f1"
+        },{
+            "name":"合集-哥特体英文-歌特",
+            "extension":"zip",
+            "size":"400KB",
+            "url":"7c78740f4f3dd57d26db9c6c2302443e57737a050e175086005f8d6bb65f2b11ef01cd86a10a6939c44d806f2e3a4de55073fd7bb8e399bb8dd63090ec0b30ad6ae28d679fd6b9372ba92dc2d753c558"
+        },{
+            "name":"合集-16款英文字体-EN",
+            "extension":"zip",
+            "size":"912KB",
+            "url":"7c78740f4f3dd57d26db9c6c2302443e57737a050e175086005f8d6bb65f2b119d6cedca59dde5522e50a09dc455b30bf8b7a55c4c9cc0c61b3389d24c87b93ce0d2ecaed9fe61998a6861e990f29db2"
         },{
             "name":"字体-爱疯6体",
             "extension":"tsres",
