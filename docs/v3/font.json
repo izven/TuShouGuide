@@ -1,10 +1,20 @@
 {
     "data":[
         {
+            "name":"合集-常用字体-图手",
+            "extension":"tsres",
+            "size":"65.5M",
+            "url":"7c78740f4f3dd57d26db9c6c2302443e57737a050e175086005f8d6bb65f2b1173fb8b86fb636d7d31be6c91c8f027ba7762c3bf35db053214b81b8b44aa6c933add8766565f9626035a14993a08e016"
+        },{
             "name":"合集-16款英文字体-EN",
-            "extension":"zip",
+            "extension":"tsres",
             "size":"912KB",
-            "url":"7c78740f4f3dd57d26db9c6c2302443e57737a050e175086005f8d6bb65f2b119d6cedca59dde5522e50a09dc455b30bf8b7a55c4c9cc0c61b3389d24c87b93ce0d2ecaed9fe61998a6861e990f29db2"
+            "url":"7c78740f4f3dd57d26db9c6c2302443e57737a050e175086005f8d6bb65f2b110d9720597f5c2661a36f0d3ed50d5429f126149ba64767726bbdc1c8d901a43fa9bbbd08dd2cdfc5e6964190e869c25f"
+        },{
+            "name":"合集-哥特体英文-歌特",
+            "extension":"tsres",
+            "size":"390KB",
+            "url":"7c78740f4f3dd57d26db9c6c2302443e57737a050e175086005f8d6bb65f2b11409d045778d3c5cd1b43bbff3ad973adcc95296fc6a4d035e56bf117442dc413ba3a758c88d0e7886b48d26e20f94a2f"
         },{
             "name":"字体-爱疯6体",
             "extension":"tsres",
@@ -20,11 +30,6 @@
             "extension":"tsres",
             "size":"2.6M",
             "url":"7c78740f4f3dd57d26db9c6c2302443e57737a050e175086005f8d6bb65f2b11eda786a43da3d05038556d44c2ca403a6ff5f30e8ecfc1c72ea4279ffd6c5e252443a6ed7479761e1c29ce2f32bb7f6d"
-        },{
-            "name":"字体-楷体",
-            "extension":"tsres",
-            "size":"13M",
-            "url":"7c78740f4f3dd57d26db9c6c2302443e57737a050e175086005f8d6bb65f2b11d0c6e944498fd9cf8f078d4131210e51b0818cb0e4a03fed2ad0f92b63f50028be6c6c7fe8fc675827ab4fbb2d0e5493"
         },{
             "name":"字体-棉花糖",
             "extension":"tsres",
