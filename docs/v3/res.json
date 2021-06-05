@@ -1,0 +1,30 @@
+{
+    "data":[
+        {
+            "name":"素材-基础",
+            "extension":"tsres",
+            "size":"39.5M",
+            "url":"7c78740f4f3dd57d26db9c6c2302443e57737a050e175086005f8d6bb65f2b11ef50dd621f5d96f4d69283a92f48b16f799f7607346153c1beed72ba1a8ddbd133d95fd0b37883e526b79b0c01e32771"
+        },{
+            "name":"素材-节庆",
+            "extension":"tsres",
+            "size":"126.8M",
+            "url":"7c78740f4f3dd57d26db9c6c2302443e57737a050e175086005f8d6bb65f2b110119656d7dfff92074ffbeb37dad7e2f83d631e8a68758229b9cda3f117b341db17019b4e8e14f099b35d687861ce057"
+        },{
+            "name":"素材-排版",
+            "extension":"tsres",
+            "size":"34.5M",
+            "url":"7c78740f4f3dd57d26db9c6c2302443e57737a050e175086005f8d6bb65f2b11156703c508877830059d78eaf672f05118747adfff7d0b329dbb1dc0720623eb0a7f76dba35ca52a5bd28293c825fba7"
+        },{
+            "name":"素材-主题",
+            "extension":"tsres",
+            "size":"65.4M",
+            "url":"7c78740f4f3dd57d26db9c6c2302443e57737a050e175086005f8d6bb65f2b1138f1b5a36f992211393b7cd26f2925f56002d06fcfed15cd7a38b7bf5c4c335a311a6eca1e1bcb7d3436d3f37e8eb322"
+        },{
+            "name":"素材-风格",
+            "extension":"tsres",
+            "size":"20.8M",
+            "url":"7c78740f4f3dd57d26db9c6c2302443e57737a050e175086005f8d6bb65f2b118eab61c109a3f9e080b80d8f92fbace2b18cb664de753513150e95ac39cbb94ca099307019340cf68f1432e62e0793cb"
+        }
+    ]
+}
