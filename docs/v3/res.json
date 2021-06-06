@@ -1,10 +1,35 @@
 {
     "data":[
         {
+            "name":"素材-节庆-女神物语",
+            "extension":"tsres",
+            "size":"16M 新增女神节、父亲节、缤纷新年",
+            "url":"7c78740f4f3dd57d26db9c6c2302443e57737a050e175086005f8d6bb65f2b1117b20a66b2949d7b12f817aff4ee6d586058b5f3f09c64fb950321a5546ae4ba243837194a762864a24601ff5aa8bed2"
+        },{
+            "name":"素材-贴纸",
+            "extension":"tsres",
+            "size":"46M",
+            "url":"7c78740f4f3dd57d26db9c6c2302443e57737a050e175086005f8d6bb65f2b11f4f964b1a9206f3631fb8e8f8510f2e22d67b2c5e787fab1e01a3ee0904706d91084eaef30b77186994bb5adede75da5"
+        },{
+            "name":"素材-校园",
+            "extension":"tsres",
+            "size":"12M",
+            "url":"7c78740f4f3dd57d26db9c6c2302443e57737a050e175086005f8d6bb65f2b11ecd981300dc22de413d3cc124625bd74658cb5f0b63937084002a2aee5fd6ccc8e72fdb3d39eb5bef117c9a7b33c3fd4"
+        },{
+            "name":"素材-文字",
+            "extension":"tsres",
+            "size":"36M",
+            "url":"7c78740f4f3dd57d26db9c6c2302443e57737a050e175086005f8d6bb65f2b11adef83d3b526ebf63cc1301fc8e8dc09fe330cf43fd51da4a9396f165e022fd9867466a164e7322a163f4f7002f28d57"
+        },{
             "name":"素材-基础",
             "extension":"tsres",
             "size":"39.5M",
             "url":"7c78740f4f3dd57d26db9c6c2302443e57737a050e175086005f8d6bb65f2b11ef50dd621f5d96f4d69283a92f48b16f799f7607346153c1beed72ba1a8ddbd133d95fd0b37883e526b79b0c01e32771"
+        },{
+            "name":"素材-基础-基础线框",
+            "extension":"tsres",
+            "size":"2M",
+            "url":"7c78740f4f3dd57d26db9c6c2302443e57737a050e175086005f8d6bb65f2b113cb464aa0b5f76405e98fee606f97334650fe22d090f4cb9c50ec94d8e6479a7c8b03bf5c09aab5572dbbf209b4ef4ff"
         },{
             "name":"素材-节庆",
             "extension":"tsres",
