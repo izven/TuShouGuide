@@ -3,7 +3,7 @@
         "url":"https://tushou.ibear.cc",
         "wp":"e5df6a9af1affcbc013011711c2c6506e2ac67a4630d3e8d3af3bd9dfe273c8193f260019f20dcf9c29826677f5de6237c09b57cb0b3232ebfbdaa7f2a5cfeeb7cb501ac4930302077b3065f31dd6140",
         "guide":"67b93103aa46717b2320c99d753bbce956a5c316ef42fc5bde31fd7902a87079f36df14f7737b3ea5def6bcbd41486101a1ddf137fd7ea03a1c401413cafdebaff800e4bf67b4e6de8e3d1bfe0e5958f",
-        "version":"1.3.6",
-        "content": "- 修复保存错误\n - 新增新手教程 包含视频\n- 新增资源包\n- 新增镜像功能\n- 优化自由拉伸操作\n- 优化资源包的安装"
+        "version":"1.3.7",
+        "content": "- 新增素材1000+\n - 新增字体\n- 优化文字输入\n- 优化安装方式"
     }
 }
